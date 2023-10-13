@@ -22,7 +22,7 @@ print(get_weather_data())
 #
 #
 # while True:
-#     api_key = "ca01028ac3ba5fd56e08160dd836a7f3"
+#     api_key = "your key"
 #     city_name = input('Enter city name (or "exit" if you want to quit): ')
 #     if city_name == "exit ":
 #         break
