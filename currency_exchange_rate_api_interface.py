@@ -146,3 +146,5 @@ while True:
         print(get_price_usd_cad())
     elif user_input == "9":
         print(get_price_usd_zar())
+    else:
+        print("Incorrect input, try again!")
